@@ -3,13 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to CS264 Labs's documentation!
-======================================
+Welcome to CS264 Labs Homepage
+==============================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
+
+   lab1.rst
+
 
 Indices and tables
 ==================
@@ -17,4 +20,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
