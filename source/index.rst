@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    lab1.rst
+   lab2.rst
 
 
 Indices and tables
